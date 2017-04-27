@@ -1,0 +1,117 @@
+// Sfz exported from sf2 by Polyphone
+// Name     :Hsiau-Yuhaya
+// Author   :Shiki Suen (Programmer), Yuhaya Wu (Performer)
+// Copyright:Creative Commons Attribution-ShareAlike 4.0 International License
+// Date     :2017/04/22
+// Comment  :
+
+<group>
+sw_lokey=E1 sw_hikey=F1 sw_last=E1 sw_label=Sustain
+lokey=G#3 hikey=C7
+lovel=0 hivel=127
+loop_mode=no_loop
+ampeg_attack=0.561
+ampeg_hold=0
+ampeg_decay=0.028
+ampeg_release=0.098
+ampeg_attack_shape=0.36
+
+<region>
+sample=2448-FLAC\D3-Sus.flac
+lokey=G#3 hikey=E4
+pitch_keycenter=D4
+pan=0
+tune=-34
+offset=0
+
+<region>
+sample=2448-FLAC\G3-Sus.flac
+lokey=F4 hikey=G4
+pitch_keycenter=G4
+pan=0
+tune=-23
+offset=0
+
+<region>
+sample=2448-FLAC\A3-Sus.flac
+lokey=G#4 hikey=B4
+pitch_keycenter=A4
+pan=0
+tune=-24
+offset=0
+
+<region>
+sample=2448-FLAC\D4-Sus.flac
+lokey=C5 hikey=E5
+pitch_keycenter=D5
+pan=0
+tune=-43
+offset=0
+
+<region>
+sample=2448-FLAC\G4-Sus.flac
+lokey=F5 hikey=G5
+pitch_keycenter=G5
+pan=0
+tune=-25
+offset=0
+
+<region>
+sample=2448-FLAC\A4-Sus.flac
+lokey=G#5 hikey=C7
+pitch_keycenter=A5
+pan=0
+tune=-14
+offset=0
+
+<group>
+sw_lokey=E1 sw_hikey=F1 sw_last=F1 sw_default=F1
+sw_label=Vibrato
+lokey=G#3 hikey=C7
+lovel=0 hivel=127
+loop_mode=no_loop
+ampeg_attack=0.561
+ampeg_hold=0
+ampeg_decay=0.028
+ampeg_release=0.098
+ampeg_attack_shape=0.36
+
+<region>
+sample=2448-FLAC\D3-Vib.flac
+lokey=G#3 hikey=E4
+pitch_keycenter=D4
+pan=0
+tune=-34
+offset=0
+
+<region>
+sample=2448-FLAC\G3-Vib.flac
+lokey=F4 hikey=G4
+pitch_keycenter=G4
+pan=0
+tune=-30
+offset=0
+
+<region>
+sample=2448-FLAC\A3-Vib.flac
+lokey=G#4 hikey=B4
+pitch_keycenter=A4
+pan=0
+tune=-35
+offset=0
+
+<region>
+sample=2448-FLAC\D4-Vib.flac
+lokey=C5 hikey=E5
+pitch_keycenter=D5
+pan=0
+tune=-38
+offset=0
+
+<region>
+sample=2448-FLAC\G4-Vib.flac
+lokey=F5 hikey=C7
+pitch_keycenter=G5
+pan=0
+tune=-22
+offset=0
